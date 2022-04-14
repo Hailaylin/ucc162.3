@@ -1,5 +1,8 @@
 # UCC
 
+* 用来辅助学习《编译原理》课程，实践是检验真理的唯一标准。
+
+
 ## A Lightweight Open-Source C Compiler for Research and Education
 
 The original author is Wenjun Wang (Chief Architect of MIUI, Xiaomi Technology).
